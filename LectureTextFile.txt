@@ -3,8 +3,6 @@
 //10/1/24
 
 
-
-
 #include <iostream>
 #include <string> 
 
@@ -40,16 +38,30 @@ for (i=1; i<5; i++)
 
     if (NumberGrams <0)
         cout << "This is not a valid input. Please try again\n";
-
-
-
 }
-
-
-
-
-
-
 
 return 0;
 }
+
+/*
+Enter the Name of the fruit (Use Underscore to represent spaces)
+ekratkoye
+ Enter the number of grams of sugar that this fruit has
+-10
+This is not a valid input. Please try again
+Enter the Name of the fruit (Use Underscore to represent spaces)
+PeeePeePoop
+ Enter the number of grams of sugar that this fruit has
+13
+THIS IS A MEDIUM SUGAR FRUIT.≡ƒÆ»
+Enter the Name of the fruit (Use Underscore to represent spaces)
+Poop
+ Enter the number of grams of sugar that this fruit has
+7
+THIS IS A LOW SUGAR FRUIT!≡ƒìç
+Enter the Name of the fruit (Use Underscore to represent spaces)
+skibi
+ Enter the number of grams of sugar that this fruit has
+100
+ THIS IS A HIGH SUGAR FRUIT!!≡ƒÄÇ
+PS C:\Users\halimatou.diaby23\Documents\GitHub\lab-4-if-else-statements-H4L1M4T0U> */
